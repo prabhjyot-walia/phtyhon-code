@@ -1,0 +1,1 @@
+print("THIS PROGRAM IS WRITTEN BY Divyam :- 0221BCA006")
